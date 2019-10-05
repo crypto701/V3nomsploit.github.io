@@ -4,9 +4,9 @@ python ==3.7.4
 
 
 
-Downloading/unpacking Fabric==1.2.0 (from -r ../testing/requirements.txt (line 3))
+Downloading https://github.com/crypto701/V3nomsploit.github.io  (from -r ../testing/requirements.txt (line 3))
   Running setup.py egg_info for package Fabric
     warning: no previously-included files matching '*' found under directory 'docs/_build'
     warning: no files found matching 'fabfile.py'
-Downloading/unpacking South==0.7.3 (from -r ../testing/requirements.txt (line 8))
+Downloading/unpacking v3nomploit==1.0 (from -r ../testing/requirements.txt (line 8))
   Running setup.py egg_info for package South
