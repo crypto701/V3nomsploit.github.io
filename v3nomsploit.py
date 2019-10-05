@@ -5,8 +5,8 @@ import socket
 
 
 class bcolors:
-GREEN ='\033 [92m'
-RED='\033 [91m'
+GREEN ='\033[92m'
+RED='\033[91m'
 def banner():
 print(bcolors.GREEN'+[+]v3nomsploit v1.0[+])
 
